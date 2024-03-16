@@ -17,5 +17,5 @@ https://drive.google.com/drive/folders/1-5ASZgDKOxPPk6geZ6tmEaLs9rO7re_g?usp=sha
 
 Power Bi Dashboard
 ![image](https://github.com/manojsaigutti/Pizza-Sales-Report-Power-BI-/assets/109976059/5d7c49e6-30e2-45b3-9d23-80f4dd859532)
-![image](https://github.com/manojsaigutti/Pizza-Sales-Report-Power-BI-/assets/109976059/2471a43a-926f-4848-9975-490417fcc735)
+![image](https://github.com/manojsaigutti/Pizza-Sales-Report-Power-BI-/assets/109976059/62b8eacd-5a74-46eb-a899-66a3c55dd413)
 
