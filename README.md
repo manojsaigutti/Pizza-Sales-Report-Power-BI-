@@ -3,7 +3,7 @@
 The Project is all about the getting the detailed visualization using PowerBI for the pizza Orders dataset.Totally i created two Dashboard named home and Bets/Worst Sellers and then i used navigator for navigating between these two dashboards. I have csv dataset which was downloaded on internet. I used SQL SERVER MANAGEMENT STUDIO 19, for checking the wheather our Visualization giving exact output or not.
 
 Steps Followed
--> First Loaded CSV file into the PowerBI.
+-> First Loaded CSV file into the PowerBI.\
 -> Used Power Query editor for updating and creating new columns that neeed for the creating dashboard.
 -> I extracted Name of the Day,Month and Day,Month number using Order_date column which was presnt in the dataset.
 -> Created new measures for Total Orders,Total Pizzas sold,Total Revenue, Average Order Value and Average Pizzas Per day. And then i used new card for the above five measures.
